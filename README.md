@@ -24,4 +24,4 @@ _I am funny, smart, shy when I meet others. My favorite thing to do as of right 
 
 8. History
 
-Hstatsep.github.io
+[This is the link to the students page] (https://hstatsep.github.io/students/)

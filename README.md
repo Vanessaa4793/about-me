@@ -6,9 +6,11 @@ _I am funny, smart, shy when I meet others. My favorite thing to do as of right 
 
 **Schedule**
 
+---
+
 1. Chemistry
 
-2.Spanish
+2. Spanish
 
 3. Big History project
 

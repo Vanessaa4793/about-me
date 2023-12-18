@@ -2,7 +2,7 @@
 # Vanessa Archer
 ## VAnessaa104@nycstudents.net
 ## Hstat
-_I am funny, smart, shy when I meet others. My favorite thing to do as of right now is to play basketball, read graphic novels, and binge watch netflix shows._
+  _I am funny, smart, shy when I meet others. My favorite thing to do as of right now is to play basketball, read graphic novels, and binge watch netflix shows._
 
 **Schedule**
 

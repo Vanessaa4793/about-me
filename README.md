@@ -25,3 +25,4 @@
 8. History
 
 [This is the link to the students page] (https://hstatsep.github.io/students/)
+reviewed by Kostela
